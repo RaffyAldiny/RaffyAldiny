@@ -55,11 +55,6 @@
 - 🌱 **Developer:** Creator of Roblox Game **Brainwave** & **Obby King**  
 - 🌴 **Passionate About:** Exploring automation, AI, and tech solutions  
 
----
-
-
-
-
 <!-- 3D Contribution Graph -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contributions" width="70%">
