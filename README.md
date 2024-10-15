@@ -14,6 +14,7 @@
   Fourth-Year Computer Science Student
 </p>
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
