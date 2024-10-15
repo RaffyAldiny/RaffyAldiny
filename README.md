@@ -64,10 +64,8 @@
 </p>
 
 
-
----
-<!-- 3D Contribution Graph -->
-<p align="center">
+<!-- 3D Contribution Graph 
+<!--  <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" width="70%">
 </p>
-
+-->
