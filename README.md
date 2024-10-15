@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/-Roblox%20Luau-558B2F?logo=roblox&logoColor=white&style=for-the-badge" />
 </p>
 
----
 
 ## 🌲 About Me 🌿  
 - 🎋 **Education:** Fourth-Year **Computer Science Student**  
