@@ -1,4 +1,4 @@
-![Demo](GreenNature.gif)
+![Sample](GreenNature.gif)
 
 <!-- Simple Orange Header Text -->
 <h1 align="center" style="font-size: 60px; color: #FF4500; font-family: 'Courier New', monospace;">
