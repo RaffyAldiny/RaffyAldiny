@@ -1,4 +1,3 @@
-<hr style="border: 1px dashed #4CAF50; width: 80%;" />
 
 <h1 align="center">
   <samp>
