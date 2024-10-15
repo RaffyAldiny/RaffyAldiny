@@ -1,5 +1,4 @@
 
-![GreenNature-ezgif com-crop (2)](https://github.com/user-attachments/assets/62c4067e-05b4-4601-8119-43437737962e)
 <h1 align="center">
   <samp>
     <b><i>
@@ -12,6 +11,8 @@
 <p align="center" style="font-size: 20px; font-family: 'Courier New', monospace; color: #FF4500;">
   Fourth-Year Computer Science Student
 </p>
+![GreenNature-ezgif com-crop (2)](https://github.com/user-attachments/assets/62c4067e-05b4-4601-8119-43437737962e)
+
 
 ---
 <p align="center">
