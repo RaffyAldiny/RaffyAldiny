@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-CSS3-689F38?logo=css3&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-TailwindCSS-558B2F?logo=tailwindcss&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Linux-C0CA33?logo=linux&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-SQLite-6BC34A?logo=sqlite&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-SQLite-6AA34A?logo=sqlite&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-MongoDB-9CCC65?logo=mongodb&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-JavaScript-F0F4C3?logo=javascript&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Python-8BC34A?logo=python&logoColor=white&style=for-the-badge" />
