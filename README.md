@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-C++-7CB342?logo=cplusplus&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Photoshop-8BC34A?logo=adobephotoshop&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Unity-558B2F?logo=unity&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Flutter-7E9D14?logo=flutter&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Flutter-7EBD14?logo=flutter&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Firebase-AED581?logo=firebase&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Power%20BI-C0CA33?logo=powerbi&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-AWS%20Redshift-8BC34A?logo=amazonaws&logoColor=white&style=for-the-badge" />
