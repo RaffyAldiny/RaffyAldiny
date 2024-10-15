@@ -16,11 +16,11 @@
 
 ---
 
-## 🌟 About Me  
-- 🔭 **Currently Working On:** Enhancing Deep Fake Detection using Residual Networks
-- 🌱 **Learning:** Machine Learning & AI  
-- 💬 **Ask Me About:** GitHub Actions, Automation, and DevOps  
-- ⚡ **Fun Fact:** I love gaming and building side projects!  
+## 🌲 About Me 🌿  
+- 🌳 **Internship:** Solution Architect Intern at **FastTrack Solutions Inc.**  
+- 🍃 **Current Project:** Enhancing **Residual Networks** for Deepfake Detection  
+- 🌱 **Developer:** Creator of an immersive **Roblox game**  
+- 🌴 **Passionate About:** Exploring automation, AI, and tech solutions  
 
 ---
 
