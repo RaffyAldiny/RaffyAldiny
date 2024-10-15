@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-TypeScript-558B2F?logo=typescript&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Dart-7DB342?logo=dart&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Laravel-AED581?logo=laravel&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Node.js-9E9D24?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Node.js-6EAE24?logo=nodedotjs&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Git-C5F1A5?logo=git&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-HTML5-8BC34A?logo=html5&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-CSS3-689F38?logo=css3&logoColor=white&style=for-the-badge" />
