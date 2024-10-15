@@ -1,7 +1,7 @@
 <h1 align="center">
   <samp>
     <b><i>
-      Hi, I'm <span style="color: #39FF14;">Yugi 🍀</span>
+      Hi, I'm <span style="color: #39FF14; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 30px #39FF14;">Yugi 🍀</span>
     </i></b>
   </samp>
 </h1>
