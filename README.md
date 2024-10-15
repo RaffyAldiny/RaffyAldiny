@@ -1,4 +1,4 @@
-![GreenNature-ezgif com-crop](https://github.com/user-attachments/assets/9e516a55-7f9b-437d-bd48-5a2e23cf132e)
+![GreenNature-ezgif com-crop (1)](https://github.com/user-attachments/assets/577b4020-1bef-45f6-9902-c345ea5cae46)
 
 <!-- Simple Orange Header Text -->
 <h1 align="center" style="font-size: 60px; color: #FF4500; font-family: 'Courier New', monospace;">
