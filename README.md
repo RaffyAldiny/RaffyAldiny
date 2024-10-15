@@ -16,6 +16,15 @@
 
 ---
 
+## 🌟 About Me  
+- 🔭 **Currently Working On:** Enhancing Deep Fake Detection using Residual Networks
+- 🌱 **Learning:** Machine Learning & AI  
+- 💬 **Ask Me About:** GitHub Actions, Automation, and DevOps  
+- ⚡ **Fun Fact:** I love gaming and building side projects!  
+
+---
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
@@ -54,14 +63,6 @@
   <img src="https://img.shields.io/badge/-Roblox%20Luau-000000?logo=roblox&logoColor=white&style=for-the-badge" />
 </p>
 
-
-## 🌟 About Me  
-- 🔭 **Currently Working On:** Enhancing Deep Fake Detection using Residual Networks
-- 🌱 **Learning:** Machine Learning & AI  
-- 💬 **Ask Me About:** GitHub Actions, Automation, and DevOps  
-- ⚡ **Fun Fact:** I love gaming and building side projects!  
-
----
 
 <!-- 3D Contribution Graph -->
 <p align="center">
