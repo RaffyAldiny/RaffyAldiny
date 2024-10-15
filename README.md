@@ -2,7 +2,7 @@
 <h1 align="center">
   <samp>
     <b><i>
-      🍀 Fern-tastic to Meet You, I'm <span style="color: #39FF14;">Yugi 🍃 </span>
+      🍀 Hola, I'm <span style="color: #39FF14;">Yugi 🍃 </span>
     </i></b>
   </samp>
 </h1>
