@@ -61,5 +61,5 @@
 </p>
 
 --
-![RaffyAldiny's GitHub Streak](https://github-streak-stats.herokuapp.com/?user=RaffyAldiny&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RaffyAldiny)](https://git.io/streak-stats)
 
