@@ -1,5 +1,3 @@
-![GreenNature-ezgif com-crop (2)](https://github.com/user-attachments/assets/62c4067e-05b4-4601-8119-43437737962e)
-
 <!-- Simple Orange Header Text -->
 <h1 align="center" style="font-size: 60px; color: #FF4500; font-family: 'Courier New', monospace;">
   <samp>
@@ -8,6 +6,8 @@
     </i></b>
   </samp>
 </h1>
+
+![GreenNature-ezgif com-crop (2)](https://github.com/user-attachments/assets/62c4067e-05b4-4601-8119-43437737962e)
 
 <!-- Centered Description with Orange Accent -->
 <p align="center" style="font-size: 20px; font-family: 'Courier New', monospace; color: #FF4500;">
