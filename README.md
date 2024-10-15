@@ -60,6 +60,9 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" width="70%">
 </p>
 
---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RaffyAldiny)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=RaffyAldiny&theme=green_nur&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
