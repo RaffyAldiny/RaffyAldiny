@@ -47,12 +47,6 @@
   <img src="https://img.shields.io/badge/-Roblox%20Luau-000000?logo=roblox&logoColor=white&style=for-the-badge" />
 </p>
 
-
-<!-- Centered Description with Orange Accent -->
-<p align="center" style="font-size: 20px; font-family: 'Courier New', monospace; color: #FF4500;">
-  ˚˖𓍢ִ໋`:✧˚.⋆𖧧 Fourth-Year Computer Science Student  ˚˖𓍢ִ໋`:✧˚.⋆𖧧
-</p>
-
 ---
 
 ## 🌲 About Me 🌿  
