@@ -1,33 +1,16 @@
-<!-- Fiery Glowing Text Header -->
-<h1 align="center">
+<!-- Simple Orange Header Text -->
+<h1 align="center" style="font-size: 60px; color: #FF4500; font-family: 'Courier New', monospace;">
   <samp>
     <b><i>
-      Hi, I'm <span style="
-        color: #FF4500; /* Fire-like orange */
-        text-shadow: 
-          0 0 20px #FF6347, /* Tomato red glow */
-          0 0 30px #FF4500, /* Outer fire orange glow */
-          0 0 40px #FFA500, /* Bright orange-yellow glow */
-          0 0 50px #FFD700, /* Golden center glow */
-          0 0 60px #FF8C00; /* Deep fire glow */
-      ">
-      Yugi ✨</span>
+      Hi, I'm <span>Yugi ✨</span>
     </i></b>
   </samp>
 </h1>
 
-<!-- Centered Description with Fiery Glow -->
-<p align="center" style="font-size: 20px; font-family: 'Courier New', monospace;">
-  <span style="
-    color: #FF4500; 
-    text-shadow: 0 0 15px #FF6347, 0 0 25px #FF4500, 0 0 35px #FFA500;">
-    Aspiring Software Developer | Roblox Game Developer 
-  </span> <br>
-  <span style="
-    color: #FFD700; 
-    text-shadow: 0 0 10px #FFD700, 0 0 20px #FF8C00;">
-    Fourth-Year Computer Science Student
-  </span>
+<!-- Centered Description with Orange Accent -->
+<p align="center" style="font-size: 20px; font-family: 'Courier New', monospace; color: #FF4500;">
+  Aspiring Software Developer | Roblox Game Developer <br>
+  Fourth-Year Computer Science Student
 </p>
 
 ---
