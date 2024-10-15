@@ -1,11 +1,11 @@
-<!-- Simple Orange Header Text -->
-<h1 align="center" style="font-size: 60px; color: #FF4500; font-family: 'Courier New', monospace;">
+<h1 align="center">
   <samp>
     <b><i>
-      Hi, I'm <span>Yugi 🍀</span>
+      Hi, I'm <span style="color: #39FF14;">Yugi 🍀</span>
     </i></b>
   </samp>
 </h1>
+
 
 ![GreenNature-ezgif com-crop (2)](https://github.com/user-attachments/assets/62c4067e-05b4-4601-8119-43437737962e)
 
