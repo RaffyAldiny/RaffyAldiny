@@ -2,7 +2,7 @@
 <h1 align="center">
   <samp>
     <b><i>
-      Hi, I'm <span style="color: #39FF14;">Yugi 🍃 </span>
+      Evergreen Greetings, I'm <span style="color: #39FF14;">Yugi 🍃 </span>
     </i></b>
   </samp>
 </h1>
