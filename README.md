@@ -1,8 +1,6 @@
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
-  <img src="https://github.com/user-attachments/assets/f3d0a45d-19b9-4e45-8563-4542a4d48b49" 
-       alt="GreenNature" 
-       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
-</div>
+<img src="https://github.com/user-attachments/assets/f3d0a45d-19b9-4e45-8563-4542a4d48b49" 
+     alt="GreenNature" width="640" height="360">
+
 <!-- Simple Orange Header Text -->
 <h1 align="center" style="font-size: 60px; color: #FF4500; font-family: 'Courier New', monospace;">
   <samp>
