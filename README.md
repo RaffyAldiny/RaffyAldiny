@@ -9,22 +9,6 @@
 
 ![GreenNature-ezgif com-crop (2)](https://github.com/user-attachments/assets/62c4067e-05b4-4601-8119-43437737962e)
 
-<!-- Centered Description with Orange Accent -->
-<p align="center" style="font-size: 20px; font-family: 'Courier New', monospace; color: #FF4500;">
-  ˚˖𓍢ִ໋`:✧˚.⋆𖧧 Fourth-Year Computer Science Student  ˚˖𓍢ִ໋`:✧˚.⋆𖧧
-</p>
-
----
-
-## 🌲 About Me 🌿  
-- 🌳 **Internship:** Solution Architect Intern at **FastTrack Solutions Inc.**  
-- 🍃 **Current Project:** Enhancing **Residual Networks** for Deepfake Detection  
-- 🌱 **Developer:** Creator of an immersive **Roblox game**  
-- 🌴 **Passionate About:** Exploring automation, AI, and tech solutions  
-
----
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
@@ -62,6 +46,24 @@
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Roblox%20Luau-000000?logo=roblox&logoColor=white&style=for-the-badge" />
 </p>
+
+
+<!-- Centered Description with Orange Accent -->
+<p align="center" style="font-size: 20px; font-family: 'Courier New', monospace; color: #FF4500;">
+  ˚˖𓍢ִ໋`:✧˚.⋆𖧧 Fourth-Year Computer Science Student  ˚˖𓍢ִ໋`:✧˚.⋆𖧧
+</p>
+
+---
+
+## 🌲 About Me 🌿  
+- 🌳 **Internship:** Solution Architect Intern at **FastTrack Solutions Inc.**  
+- 🍃 **Current Project:** Enhancing **Residual Networks** for Deepfake Detection  
+- 🌱 **Developer:** Creator of an immersive **Roblox game**  
+- 🌴 **Passionate About:** Exploring automation, AI, and tech solutions  
+
+---
+
+
 
 
 <!-- 3D Contribution Graph -->
