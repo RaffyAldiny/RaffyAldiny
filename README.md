@@ -56,6 +56,7 @@
 ---
 
 ## 🌲 About Me 🌿  
+- 🎋 **Education:** Fourth-Year **Computer Science Student**  
 - 🌳 **Internship:** Solution Architect Intern at **FastTrack Solutions Inc.**  
 - 🍃 **Current Project:** Enhancing **Residual Networks** for Deepfake Detection  
 - 🌱 **Developer:** Creator of an immersive **Roblox game**  
