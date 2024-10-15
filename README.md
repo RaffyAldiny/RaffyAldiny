@@ -60,3 +60,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" width="70%">
 </p>
 
+--
+![RaffyAldiny's GitHub Streak](https://github-streak-stats.herokuapp.com/?user=RaffyAldiny&theme=highcontrast)
+
