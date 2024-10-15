@@ -58,9 +58,11 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=RaffyAldiny&theme=green_nur&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=RaffyAldiny&theme=dark&hide_border=true&background=0D1117&ring=6AAA64&fire=4CAF50&currStreakNum=81C784&sideNums=A5D6A7&currStreakLabel=9CCC65&sideLabels=C8E6C9&dates=81C784" 
+    alt="GitHub Streak Stats" />
   </a>
 </p>
+
 
 
 ---
