@@ -2,7 +2,7 @@
 <h1 align="center">
   <samp>
     <b><i>
-      Hi, I'm <span style="color: #39FF14;">Yugi 🍀</span>
+      Hi, I'm <span style="color: #39FF14;">Yugi 🍃 </span>
     </i></b>
   </samp>
 </h1>
@@ -11,7 +11,16 @@
 
 <!-- Centered Description with Orange Accent -->
 <p align="center" style="font-size: 20px; font-family: 'Courier New', monospace; color: #FF4500;">
-  Fourth-Year Computer Science Student
+                                 ＿＿
+　　　　　🌿＞　　フ.    ᴵᶠ ᵒⁿˡʸ ᵗʰᵉʸ ʷᵉʳᵉⁿ’ᵗ ᵈʳᵉᵃᵐˢ
+　　　　　| 　_　 _ l
+　 　　　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ  Fourth-Year Computer Science Student  
 </p>
 
 ---
