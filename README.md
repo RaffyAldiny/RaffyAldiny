@@ -53,7 +53,7 @@
 - 🎋 **Education:** Fourth-Year **Computer Science Student**  
 - 🌳 **Internship:** Solution Architect Intern at **FastTrack Solutions Inc.**  
 - 🍃 **Current Project:** Enhancing **Residual Networks** for Deepfake Detection  
-- 🌱 **Developer:** Creator of an immersive **Roblox game**  
+- 🌱 **Developer:** Creator of Roblox Game **Brainwave** & **Obby King**  
 - 🌴 **Passionate About:** Exploring automation, AI, and tech solutions  
 
 ---
