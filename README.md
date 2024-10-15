@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/577b4020-1bef-45f6-9902-c345ea5cae46" width="400" height = 200 alt="Green Nature">
+<img src="https://github.com/user-attachments/assets/577b4020-1bef-45f6-9902-c345ea5cae46" width="800" height = 200 alt="Green Nature">
 
 
 <!-- Simple Orange Header Text -->
