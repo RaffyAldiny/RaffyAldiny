@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-AWS%20S3-7CB342?logo=amazons3&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-AWS%20Athena-689F38?logo=amazonaws&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Qlik-AED581?logo=qlik&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Tableau-8E5E14?logo=tableau&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Tableau-6DB342?logo=tableau&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Azure%20Synapse-C5E1A5?logo=microsoftazure&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Django-7CB342?logo=django&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Roblox%20Luau-558B2F?logo=roblox&logoColor=white&style=for-the-badge" />
