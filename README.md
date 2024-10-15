@@ -57,10 +57,15 @@
 
 
 <p align="center">
+  <h2 style="color:#77DD77; font-family:'Courier New', monospace;">
+    🌿 GitHub Streak Stats 🌿
+  </h2>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=RaffyAldiny&theme=leafy&hide_border=true&background=111111&ring=6AAA64&fire=77DD77&currStreakLabel=9ECE6A" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=RaffyAldiny&theme=leafy&hide_border=true&background=111111&ring=6AAA64&fire=77DD77&currStreakLabel=9ECE6A" 
+    alt="GitHub Streak Stats" />
   </a>
 </p>
+
 
 ---
 <!-- 3D Contribution Graph -->
