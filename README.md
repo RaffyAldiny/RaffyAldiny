@@ -36,10 +36,10 @@
 <img src="https://img.shields.io/badge/-Flutter-7EBD14?logo=flutter&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Firebase-AED581?logo=firebase&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Power%20BI-C0CA33?logo=powerbi&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-AWS%20Redshift-8BC34A?logo=amazonaws&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Amazon%20Redshift-8BC34A?logo=amazonaws&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-AWS%20Glue-9CCC65?logo=amazonaws&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-AWS%20S3-7CB342?logo=amazons3&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-AWS%20Athena-689F38?logo=amazonaws&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Amazon%20Athena-689F38?logo=amazonaws&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Qlik-AED581?logo=qlik&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Tableau-6DB342?logo=tableau&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Azure%20Synapse-C5E1A5?logo=microsoftazure&logoColor=black&style=for-the-badge" />
